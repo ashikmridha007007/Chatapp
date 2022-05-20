@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "808848366392",
+    "firebase_url": "https://finalproject-3f2f3-default-rtdb.firebaseio.com",
+    "project_id": "finalproject-3f2f3",
+    "storage_bucket": "finalproject-3f2f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808848366392:android:135311b9cb269e953f3fcd",
+        "android_client_info": {
+          "package_name": "com.example.justalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808848366392-ihrk336120teg9bq406peufdj2sqmn8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFkJlSDTg8To388eBxRs3t6Uiu7Hl1Z0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808848366392-ihrk336120teg9bq406peufdj2sqmn8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808848366392:android:6a220de8740083653f3fcd",
+        "android_client_info": {
+          "package_name": "com.finalproject.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808848366392-ihrk336120teg9bq406peufdj2sqmn8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFkJlSDTg8To388eBxRs3t6Uiu7Hl1Z0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808848366392-ihrk336120teg9bq406peufdj2sqmn8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
